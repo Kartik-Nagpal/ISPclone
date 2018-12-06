@@ -1,0 +1,1 @@
+Copying and Pasting will mess you up, b/c that will activate and change modes of their own.
